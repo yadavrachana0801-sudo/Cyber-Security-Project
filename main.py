@@ -89,8 +89,8 @@ def analyze(password):
     else:
         print("Excellent Password!")
 
-    history.append(password)
-  def security_tips():
+    history.append(password) 
+def security_tips():
     print("\n========== SECURITY TIPS ==========")
     print("1. Use 12+ character password.")
     print("2. Use uppercase and lowercase letters.")
